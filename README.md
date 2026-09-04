@@ -16,7 +16,7 @@
 
 I am a **Principal Backend Engineer** with a decade of experience building, scaling, and optimizing multi-tenant SaaS platforms. My passion lies in driving architectural transformations, centralizing platform capabilities, and fostering a strong culture of technical excellence. 
 
-As a Principal Engineer, my focus goes beyond just writing code—I emphasize system design, cross-team orchestration, reducing infrastructure overhead, and ensuring absolute reliability in high-stakes production environments.
+As a Principal Engineer, my focus goes beyond just writing code - I emphasize system design, cross-team orchestration, reducing infrastructure overhead, and ensuring absolute reliability in high-stakes production environments.
 
 - 🔭 **Currently focusing on:** Distributed systems architecture, cost optimization, and real-time data pipelines.
 - 💡 **Core Engineering Philosophy:** Ownership mindset, data-driven decisions, and turning recurring incidents into permanent architectural fixes.
