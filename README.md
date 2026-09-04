@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 
-I am a **Principal Backend Engineer** with a decade of experience building, scaling, and optimizing multi-tenant SaaS platforms. My passion lies in driving architectural transformations, centralizing platform capabilities, and fostering a strong culture of technical excellence. 
+I am a **Principal Backend Engineer** with a decade of experience building, scaling, and optimizing multi-tenant SaaS platforms. My passion lies in driving architectural transformations, centralizing data infrastructure, and enabling teams to move faster.
 
-As a Principal Engineer, my focus goes beyond just writing code - I emphasize system design, cross-team orchestration, reducing infrastructure overhead, and ensuring absolute reliability in high-stakes production environments.
+As a Principal Engineer, my focus goes beyond just writing code - I emphasize system design, cross-team orchestration, reducing infrastructure overhead, and ensuring absolute reliability in high-stake environments.
 
 - 🔭 **Currently focusing on:** Distributed systems architecture, cost optimization, and real-time data pipelines.
 - 💡 **Core Engineering Philosophy:** Ownership mindset, data-driven decisions, and turning recurring incidents into permanent architectural fixes.
@@ -59,9 +59,14 @@ As a Principal Engineer, my focus goes beyond just writing code - I emphasize sy
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidur-gt&show_icons=true&theme=radical&hide_border=true" alt="Vidur's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidur-gt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img alt="Vidur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vidur-gt&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidur-gt&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
 
 <!-- 
 💡 Pro-tip: To use this on GitHub, create a new public repository named 'vidur-gt', initialize it with a README, and paste this content inside!
